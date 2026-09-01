@@ -46,9 +46,10 @@ TheHealthApp allows patients to securely log in, explore and choose health featu
 - **Client** Dr. Fardeen Dadan, Dr. Ashok Kumar Chidi
 - **Track:** Client-driven Product
 <!-- - **Staff Developer:** Staff Developer Name [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/username) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/username/) -->
-- **Current Tech Lead:** Sameer Maayiz Sirajudeen [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Smagen12)
+- **Current Tech Lead:** Munashe Sam Mudabura [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mudabs) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/munashe-mudabura-468b9a235/)
 - **Developers:**
 
+  - Sameer Maayiz Sirajudeen (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Smagen12)
   - Hashir Hashir (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mhashir03)
   - Zukai Sagan (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ZukaiSagan)
   - Munazzah Rizwan Rakhangi (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Munazzah-Rakhangi)
