@@ -22,6 +22,8 @@ The app will categorize the bones into modules such as the bony pelvis, lower li
 
 - **Developers:**
 
+  - Olasubomi  Adekunle (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/leandrumartin) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/olasubomi-adekunle-91781b261/)
+  - Ramedan Ahmed (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Remex9) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/ramedan-ahmed-55851929b/)
   - Leandru Martin (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/leandrumartin) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/leandru-martin/)
   - Brehana Naidu (alumni, capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Brehana-Naidu)
   - Jennifer Oishee (alumni, capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Joishee05) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/jennifer-oishee/)

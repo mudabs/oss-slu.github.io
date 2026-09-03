@@ -20,8 +20,8 @@ _Note: careful review by a knowledgeable speech-language pathologist is required
 - **Current Tech Lead:** Munashe Sam Mudabura [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mudabs) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/munashe-mudabura-468b9a235/)
 
 - **Developers:**
-  - Ramedan Ahmed (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Remex9)
-  - Mayokun Lawal (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mayokunl)
+  - Ramedan Ahmed (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Remex9) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/ramedan-ahmed-55851929b/)
+  - Mayokun Lawal (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mayokunl) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/oluwamayokun-lawal/)
   - Savikhya Kadiyala (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Savikhya)
   - Breona Saffouri (alumni, capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/bsaffouri)
   - Risha Bhosekar (alumni) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/rbhosekar)
