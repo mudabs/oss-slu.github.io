@@ -49,6 +49,9 @@ TheHealthApp allows patients to securely log in, explore and choose health featu
 - **Current Tech Lead:** Munashe Sam Mudabura [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mudabs) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/munashe-mudabura-468b9a235/)
 - **Developers:**
 
+  - Moon Donggeun (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Moon-dg)
+  - Nayira Nwikpuinee (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Nayira)
+  - Olivia Hageman (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/OliviaH05)
   - Sameer Maayiz Sirajudeen (alumni, prior tech lead) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/Smagen12)
   - Hashir Hashir (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/mhashir03)
   - Zukai Sagan (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/ZukaiSagan)
